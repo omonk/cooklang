@@ -1,0 +1,4 @@
+# Shopping List
+# Format: path<TAB>name<TAB>scale
+
+Asian Noodle & Itsu Soup Dumpling Broth.cook	Asian Noodle &amp; Itsu Soup Dumpling Broth	1
